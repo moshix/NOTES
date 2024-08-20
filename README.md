@@ -5,9 +5,9 @@ this is a replacement for the venerable VAX NOTES program.
 
 It requires MariaDB to be installed on a UNIX system and a C compiler.To run the notes.c program along with its associated components (init_db.c, user_manager.c), you will need several packages installed on your operating system. Below is a list of the required packages:
 
-apt-get install libmariadb-dev
-apt-get install libmysqlclient-dev
-apt-get install mariadb mariadb-devel
+apt-get install libmariadb-dev  
+apt-get install libmysqlclient-dev  
+apt-get install mariadb mariadb-devel  
 
 
 Build
